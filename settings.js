@@ -1,32 +1,32 @@
-//base by BADBOI (BADBOI Bot Inc.)
+//base by 𝘾𝙊𝙉𝙁𝙐𝘾𝙄𝙐𝙎 (𝘾𝙊𝙉𝙁𝙐𝘾𝙄𝙐𝙎 Bot Inc.)
 //YouTube: I don’t have yet
-//TikTok : black ops gc
-//Telegram: t.me/Badboi
-//GitHub: @BADBOI-v1
-//WhatsApp: +2348140825959
-//want more free bot scripts? subscribe to my WhatsApp channel: https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x
+//TikTok : @blacklutcho
+//Telegram: @Lutcho_Bkack
+//GitHub: @BrelMD/BADBOI-v1
+//WhatsApp: +242055617560
+//want more free bot scripts? subscribe to our WhatsApp group: https://chat.whatsapp.com/CawewFyH8tQ7zIsil2RsiC
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "+2348140825959"
-global.ownername = "🦄BADBOI 🕷🕸v1"
-global.ytname = "YT: BADBOI 🕷🕸v1"
-global.socialm = "GitHub: DGXeon"
-global.location = "Nigeria, ogun-state, ilese"
+global.ownernomer = "+242055617560"
+global.ownername = "𝘾𝙊𝙉𝙁𝙐𝘾𝙄𝙐𝙎"
+global.ytname = "YT: 𝘾𝙊𝙉𝙁𝙐𝘾𝙄𝙐𝙎 🕷🕸v1"
+global.socialm = "GitHub: BrelMD"
+global.location = "Congo, Brazzaville"
 
-global.ownernumber = '+2348140825959'  //creator number
-global.ownername = '🦄BADBOI 🕷🕸v1' //owner name
-global.botname = '🕷🕸ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownernumber = '+242055617560'  //creator number
+global.ownername = '𝘾𝙊𝙉𝙁𝙐𝘾𝙄𝙐𝙎' //owner name
+global.botname = '𝘾𝙊𝙉𝙁𝙐𝘾𝙄𝙐𝙎-𝙈𝘿' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = '🦄 BADBOI 🕷🕸v1\n\nContact: +2348140825959'
+global.author = '🦄 𝘾𝙊𝙉𝙁𝙐𝘾𝙄𝙐𝙎 🕷🕸v1\n\nContact: +242055617560'
 
 //console view/theme
-global.themeemoji = '👿'
-global.wm = "badboi Bot Inc."
+global.themeemoji = '🌟'
+global.wm = "brel Bot Inc."
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x'
