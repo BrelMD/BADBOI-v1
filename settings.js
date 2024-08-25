@@ -65,8 +65,8 @@ global.mess = {
     owner: 'This feature can be used by owner only or by Badboi ',
     group: 'This feature is only for groups or by Badboi teams 😎😎😎',
     private: 'This feature is only for private chats😠😠😠',
-    wait: 'In process... ',    
-    error: 'Error!',
+    wait: "veuillez patienter s'il vous plaît... ',    
+    error: 'idiot!',
 }
 
 global.thumb = fs.readFileSync('./XeonMedia/thumb.jpg')
