@@ -39,9 +39,9 @@ global.autoRecording = false //auto recording
 global.autoTyping = true //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
-global.autobio = true //auto update bio
+global.autobio = false //auto update bio
 global.anti92 = true //auto block +92 
-global.autoswview = true//auto view status/story
+global.autoswview = false//auto view status/story
 
 //menu type 
 //v1 is image menu, 
@@ -58,7 +58,7 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 
 //reply messages
 global.mess = {
-    done: 'Done !',
+    done: 'Fait boss🫡 !',
     prem: 'This feature can be used by premium user only or by Badboi😂😂 ',
     admin: 'This feature can be used by admin only or by Badboi 😡😡',
     botAdmin: 'This feature can only be used when BADBOI-v1 is a group admin ',
